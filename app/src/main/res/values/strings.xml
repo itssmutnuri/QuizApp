@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz Time!</string>
+    <string name="quesitonOne">"\"... who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world.\" \n\n With a citation as such, the Nobel Prize for Literature in 2017 has been awarded to which stellar writer?</string>
+    <string name="answer1A">Bob Dylan</string>
+    <string name="answer1B">Svetlana Alexievich</string>
+    <string name="answer1C">Alice Munro</string>
+    <string name="answer1D">Kazuo Ishiguro</string>
+
+    <string name="quesitonTwo">The author of the 2017 book \"Sleeping Beauties\" hasn\'t written which of the following?</string>
+    <string name="answer2A">Carrie</string>
+    <string name="answer2B">Pet Semetary</string>
+    <string name="answer2C">Stranger Things</string>
+    <string name="answer2D">Carrion Comfort</string>
+
+    <string name="quesitonThree">114 individuals have been awarded the Nobel Prize for Literature so far. How many of them have been women?</string>
+
+    <string name="quesitonFour">Who won the Pulitzer for fiction in 2015?</string>
+    <string name="answer4A">George Saunders</string>
+    <string name="answer4B">Colson Whitehead</string>
+    <string name="answer4C">Anthony Doerr</string>
+    <string name="answer4D">Richard Ford</string>
+
+    <string name="quesitonFive">Harry Potter and the Methods of Rationality is a fan-fiction series for the original Harry Potter by JK Rowling. Written under the pen name Less Wrong, who is the actual author?</string>
+    <string name="answer5A">Lena Phoria</string>
+    <string name="answer5B">Eliezer Yudkowsky</string>
+    <string name="answer5C">Korney Chukovsky</string>
+    <string name="answer5D">JK Rowling</string>
+
+</resources>
