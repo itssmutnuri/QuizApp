@@ -1,3 +1,3 @@
 # Quiz App
 
-This is a simple Quiz application made for Android Nanodegree course by Udacity. 
+This is a (very) simple Quiz application made for Android Nanodegree course by Udacity. 
